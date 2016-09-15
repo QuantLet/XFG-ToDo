@@ -1,3 +1,5 @@
+Name of QuantLet: XFGexp_rtn_SRM
+
 Published in: Applied Quantitative Finance
 
 Description: 'computes the optimal expected returns with a generating function of the SRM related to the HARA utility'

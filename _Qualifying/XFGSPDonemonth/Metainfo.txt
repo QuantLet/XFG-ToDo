@@ -6,7 +6,7 @@ Description: 'Computes and plots the local polynomial state-price density for Ja
 
 Keywords: 'Breeden Litzenberger, SPD, bisection-method, black-scholes, delta, derivative, european-option, gamma, implied-volatility, linear interpolation, local polynomial regression, semiparametric, smoothing, state-price-density'
 
-See also: XFGSPDcb, XFGSPDcb2, XFGSPDcom, XFGSPDoneday
+See also: 'XFGSPDcb, XFGSPDcb2, XFGSPDcom, XFGSPDoneday'
 
 Author: Awdesch Melzer
 
