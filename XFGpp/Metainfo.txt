@@ -1,6 +1,10 @@
+Name: XFGpp
+
 Published in: Applied Quantitative Finance
 
-Description: 'XFGpp generates a P-P Plot for Backtesting of 1) basic simulation, mean adjustment, volatility updating and volatility updating and mean adjustment simulations as well as of 2) benchmark curve, spread curve, conservative approach and simultaneous simulation. All simulated data follow chapter 2.4 in XFG2.'
+Description: 'Generates a P-P Plot for Backtesting of 1) basic simulation, mean adjustment, volatility updating and volatility updating and mean adjustment simulations as well as of 2) benchmark curve, spread curve, conservative approach and simultaneous simulation. All simulated data follow chapter 2.4 in XFG2.'
+
+Keywords: pp-plot, backtest, volatility, simulation, visualization
 
 Author: Christoph Frisch, Awdesch Melzer
 

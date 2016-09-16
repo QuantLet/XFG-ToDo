@@ -1,3 +1,5 @@
+Name: XFGSPDcb2
+
 Published in: Applied Quantitative Finance
 
 Description: 'Outputs SPD estimates for DAX option data on Jan 3, 1997 on Jan 31, 1997 and the bootstrap confidence intervals for the first date. Both SPDs correspond to the same maturity (49 days) and are displayed on a moneyness metric. Computes the State-Price Density for European options using the result of Breeden and Litzenberger and compares with estimates of Rookley's method. For more insight, please follow the description of the subroutines.'
