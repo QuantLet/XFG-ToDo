@@ -2,7 +2,7 @@ Name of QuantLet: XFGqDGtest
 
 Published in: Applied Quantitative Finance
 
-Description: 'XFGqDGtest plots the 1%-quantile from the two one-parametric sub-families of the class of quadratic forms of Gaussian vectors, as defined by the functions XFGdg11par and XFGdg12par'
+Description: 'Pots the 1%-quantile from the two one-parametric sub-families of the class of quadratic forms of Gaussian vectors, as defined by the functions XFGdg11par and XFGdg12par'
 
 Keywords: 'FFT, Fourier inversion, Fourier transform, cdf, characteristic function, gaussian, normal approximation, quantile'
 

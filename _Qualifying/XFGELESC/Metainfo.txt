@@ -2,7 +2,7 @@ Name of Quantlet: XFGELESC
 
 Published in: Applied Quantitative Finance
 
-Description: 'Shows Expected Loss/Risk Ratio for the Expected Shortfall Contribution at different quantiles.'
+Description: 'Shows expected loss/risk ratio for the expected shortfall contribution at different quantiles.'
 
 Keywords: 'Expected loss, asset, bar chart, data visualization, expected shortfall, graphical representation, portfolio, quantile, returns, risk, risk capital exposure, risk contribution'
 
@@ -12,4 +12,4 @@ Author: Ludger Overbeck, Maria Sokolova
 
 Submitted: 2015-03-04 by Lukas Borke
 
-Example: 'XFGELESC.png'
+Example: 'The plot shows expected loss/risk ratio for the expected shortfall contribution at different quantiles'

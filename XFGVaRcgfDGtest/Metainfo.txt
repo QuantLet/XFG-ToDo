@@ -10,7 +10,7 @@ Author: Awdesch Melzer
 
 Submitted: Mon, June 03 2013 by Awdesch Melzer
 
-Output: - Plot of the cumulant generating function for a distribution, which is close to normal distribution. The graph is close to a parabola.
+Output: '- Plot of the cumulant generating function for a distribution, which is close to normal distribution. The graph is close to a parabola.'
 
 Example:
 

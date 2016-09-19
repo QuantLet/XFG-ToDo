@@ -12,4 +12,4 @@ Author: Ludger Overbeck, Maria Sokolova
 
 Submitted: 2015-02-18 by Lukas Borke
 
-Example: 'XFGIndustryBreakdown.png'
+Example: 'The plot shows the industry breakdown'
