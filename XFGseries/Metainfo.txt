@@ -6,7 +6,7 @@ Description: 'Displays spread curves for the time period: 1 January 1999 to 19 M
 
 Keywords: plot, time-series, financial, data visualization, graphical representation
 
-Author: Awdesch Melzer, Germar Knoechlein
+Author: 'Germar Knšchlein, Awdesch Melzer'
 
 Submitted: Tue, July 10 2012 by Dedy Dwi Prastyo
 

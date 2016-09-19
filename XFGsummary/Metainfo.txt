@@ -6,7 +6,7 @@ Description: 'Calculates different summary statistics, such as minimum, maximum,
 
 Keywords: summary, mean, median, variance, descriptive-statistics, time-series, financial
 
-Author: Germar Knoechlein, Awdesch Melzer
+Author: 'Germar Knšchlein, Awdesch Melzer'
 
 Submitted: Sat, June 16 2012 by Dedy Dwi Prastyo
 

@@ -4,7 +4,7 @@ Published in: Applied Quantitative Finance
 
 Description: 'Plots the real (blue line) and the imaginary part (red line) of the characteristic function for a distribution, which is close to a chi^2 distribution with one degree of freedom.'
 
-Keywords: Delta-Gamma-models, characteristic function
+Keywords: Delta-Gamma-models, characteristic function, chi-square, plot, visualization
 
 See also: VaRcharfDG, VaRcharfDGF2
 

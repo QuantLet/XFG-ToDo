@@ -2,7 +2,7 @@ Published in: Applied Quantitative Finance
 
 Description: nw computes the Nadaraya-Watson Estimator
 
-Keywords: Nadaraya Watson
+Keywords: Nadaraya Watson, nonparametric, estimation, kernel, univariate
 
 See also: XFGIBT03
 
