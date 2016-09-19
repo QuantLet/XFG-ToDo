@@ -4,7 +4,9 @@ Published in: Applied Quantitative Finance
 
 Description: 'Computes Cornish-Fisher approximations for increasing orders for a specific example'
 
-Keywords: Cornish-Fisher expansion, normal approximation, asymptotic, quantile, distribution, cumulant
+Keywords: 'Cornish-Fisher expansion, normal approximation, asymptotic, quantile, distribution, cumulant'
+
+Author: Awdesch Melzer
 
 Submitted: Wed, June 05 2013 by Awdesch Melzer
 

@@ -1,10 +1,10 @@
-Name: XFGsummary
+Name of QuantLet: XFGsummary
 
 Published in: Applied Quantitative Finance
 
 Description: 'Calculates different summary statistics, such as minimum, maximum, mean, median and standard errors for the INAAA data'
 
-Keywords: summary, mean, median, variance, descriptive-statistics, time-series, financial
+Keywords: 'summary, mean, median, variance, descriptive-statistics, time-series, financial'
 
 Author: Germar Knoechlein, Awdesch Melzer
 

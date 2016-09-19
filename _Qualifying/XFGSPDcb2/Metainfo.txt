@@ -1,8 +1,4 @@
-<<<<<<< HEAD:_Qualifying/XFGSPDcb2/Metainfo.txt
 Name of QuantLet: XFGSPDcb2
-=======
-Name: XFGSPDcb2
->>>>>>> origin/master:XFGSPDcb2/Metainfo.txt
 
 Published in: Applied Quantitative Finance
 
