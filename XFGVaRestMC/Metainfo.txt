@@ -4,7 +4,7 @@ Published in: Applied Quantitative Finance
 
 Description: 'Illustrates the computation of the Value at Risk using the Delta-Gamma method. "PS": Plain vanilla sampling method "MS": Moment matching sampling method "SS": Stratified Latin Hypercube sampling method "IS": Importance sampling method'
 
-Keywords: VaR, delta-gamma
+Keywords: VaR, delta-gamma, monte-carlo, simulation, sampling
 
 See also: VaRestMC
 

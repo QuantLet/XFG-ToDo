@@ -1,28 +1,29 @@
+Name of QuantLet: cdf2quant
+
 Published in: Applied Quantitative Finance
 
-Description: 'cdf2quant approximates the quantile from a cumulative distribution function (CDF) that is given on a grid.'
+Description: 'Approximates the quantile from a cumulative distribution function (CDF) that is given on a grid.'
 
-Keywords: quantile
+Keywords: quantile, density, approximation, cdf, distribution
 
 See also: VaRqDG, XFGqDGtest
 
 Author: Awdesch Melzer
 
-Submitted:
-Tue, June 04 2013 by Awdesch Melzer
+Submitted: Tue, June 04 2013 by Awdesch Melzer
 
-Usage: q = cdf2quant(a,l)
+Usage: 'q = cdf2quant(a,l)'
 
 Input:
-a- scalar, representing the probability level
-l- a list containing: 
-x - the grid in x 
-y - the values of the CDF on the grid x
+- a:  scalar, representing the probability level
+- l: a list containing x and y (see below)
+- x: the grid in x 
+- y: the values of the CDF on the grid x
+
 Output:
-q- scalar, the approximated quantile
+- q: scalar, the approximated quantile
 
-Example: Please mind the necessary subroutines.
-
+Example: 'Please mind the necessary subroutines.
 theta = 0
 delta = c(1)
 lambda = c(0)
@@ -35,4 +36,4 @@ Result: Contents of q
 [1] 1.647865
 
 Contents of qnorm
-[1] 1.644854
+[1] 1.644854'

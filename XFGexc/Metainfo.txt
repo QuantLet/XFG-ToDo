@@ -2,9 +2,11 @@ Name of QuantLet: XFGexc
 
 Published in: Applied Quantitative Finance
 
-Description: Counts VaR exceedences for basic simulation data.
+Description: Counts 99% Value-at-Risk exceedences over a profit and loss function for basic simulation data.
 
-Author: Germar Knoechlein, Awdesch Melzer
+Keywords: simulation, Loss-Profit function, VaR, exceedance, counts
+
+Author: 'Germar Knöchlein, Awdesch Melzer'
 
 Submitted: Fri, June 29 2012 by Dedy Dwi Prastyo
 
