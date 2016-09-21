@@ -1,10 +1,10 @@
-Name of QuantLet: XFGyields
+﻿Name of QuantLet: XFGyields
 
 Published in: Applied Quantitative Finance
 
 Description: 'Displays averaged yields for different times to maturities and different risk levels.'
 
-Keywords: VaR, delta-gamma, monte-carlo, simulation, sampling
+Keywords: 'VaR, delta-gamma, monte-carlo, simulation, sampling'
 
 See also: VaRestMC
 

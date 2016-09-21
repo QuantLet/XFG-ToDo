@@ -1,8 +1,12 @@
+Name of QuantLet: nw
+
 Published in: Applied Quantitative Finance
 
 Description: nw computes the Nadaraya-Watson Estimator
 
 Keywords: Nadaraya Watson, nonparametric, estimation, kernel, univariate
+
+Author: Awdesch Melzer
 
 See also: XFGIBT03
 

@@ -6,7 +6,7 @@ Description:		'Approximates the cumulative distribution function (CDF) for the c
 
 Keywords:		FFT, cdf, Fourier transform, approximation, frequency
 
-See also:		VaRcgfDG, VaRcharfDG, VaRcharfDGF2, VaRcorrfDGF2, VaRqDG, XFGqDGtest, gFourierInversion
+See also:		'VaRcgfDG, VaRcharfDG, VaRcharfDGF2, VaRcorrfDGF2, VaRqDG, XFGqDGtest, gFourierInversion'
 
 Author:			Awdesch Melzer
 
