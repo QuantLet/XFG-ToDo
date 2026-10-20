@@ -19,7 +19,7 @@ Author: Shih-Feng Huang, Hsiao-Chi Lin, Tze-Yun Lin, Alla Petukhina
 
 Submitted: Thu, August 06 2015 by Sergey Nasekin
 
-Output: plots of the expected returns and the SRM of the optimal portfolios with different holding weights of the 1st underlying asset under an EGARCH(1,1) model, where the number of assets is 2
+Output: plots of the expected returns and the SRM of the optimal portfolios with different holding weights of the 1st underlying asset under an EGARCH(1,1) model, where the number of assets is 2'
 
 ```
 <div align="center">
